@@ -6,7 +6,7 @@ This project focuses on building a machine learning model to predict employee re
 
 **Current Location**: This project is currently part of the [abdul-rehaman-shaik/ML](https://github.com/abdul-rehaman-shaik/ML) repository in the `employee-retention-system/` subdirectory.
 
-**Project Path**: `https://github.com/abdul-rehaman-shaik/ML/tree/main/employee-retention-system`
+**Project Path**: [https://github.com/abdul-rehaman-shaik/ML/tree/main/employee-retention-system](https://github.com/abdul-rehaman-shaik/ML/tree/main/employee-retention-system)
 
 ## Files
 
@@ -27,7 +27,7 @@ The trained model is saved as 'stacking_clf.pkl' for deployment and prediction p
 If you want to move this project to a separate repository named `employee-retention-system`, follow these steps:
 
 ### Option 1: Manual Copy
-1. Create a new repository on GitHub: `https://github.com/abdul-rehaman-shaik/employee-retention-system`
+1. Create a new repository on GitHub: [employee-retention-system](https://github.com/new?name=employee-retention-system&owner=abdul-rehaman-shaik)
 2. Clone the new repository locally
 3. Copy the contents of this directory to the new repository
 4. Commit and push
@@ -41,4 +41,4 @@ git subtree split -P employee-retention-system -b employee-retention-system-bran
 git push https://github.com/abdul-rehaman-shaik/employee-retention-system.git employee-retention-system-branch:main
 ```
 
-Once moved, the project will be available at: `https://github.com/abdul-rehaman-shaik/employee-retention-system`
+Once moved, the project will be available at: [https://github.com/abdul-rehaman-shaik/employee-retention-system](https://github.com/abdul-rehaman-shaik/employee-retention-system)
