@@ -4,7 +4,7 @@ This project focuses on building a machine learning model to predict employee re
 
 ## Files
 
-- `Untitled1.ipynb`: Main Jupyter notebook containing the employee retention analysis and model training using stacking classifier.
+- `employee_retention_model.ipynb`: Main Jupyter notebook containing the employee retention analysis and model training using stacking classifier.
 
 ## Overview
 
